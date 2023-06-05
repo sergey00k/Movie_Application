@@ -5,12 +5,19 @@ Welcome to the Movies Application repository! This application allows users to e
 Features
 
 Movie Search: Search for movies by title.
+
 Create: Add new movies to the collection with just a title and an api will return the rest of the details associated with the movie.
+
 Read: View the details of individual movies, including their title, rating, release year, and any other relevant information.
+
 Update: Modify the information of existing movies, such as updating the title, rating and release year.
+
 Delete: Remove movies from the collection if they are no longer needed.
+
 Persistent Storage: The application supports reading and writing movie data to different file types for persistent storage. You can choose the file type that best suits your needs, such as JSON or CSV.
+
 Website Generation: The application generates a website in HTML and CSS using the movie data files. This allows users to browse and explore the movie collection through an intuitive and user-friendly web interface.
+
 Getting Started
 
 To get started with the Movies Application, follow these steps:
