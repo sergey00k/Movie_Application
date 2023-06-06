@@ -154,6 +154,7 @@ class MovieApp:
     self.main_menu()
 
   def _generate_website(self):
+    """Generates website using html"""
 
     with open("_static/index_template.html", "r") as html_file:
       pure_html = html_file.read()
